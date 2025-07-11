@@ -12,14 +12,7 @@ HASIL
 ![Gambar WhatsApp 2025-07-11 pukul 19 50 52_f7e114af](https://github.com/user-attachments/assets/9443ca68-3f0a-4c9e-bb34-b60a31f27f86)
 
 
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+SEKIAN TERIMA KASIH....
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
