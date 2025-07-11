@@ -1,7 +1,15 @@
 TUGAS E-COMMERCE
+
+
 IBNU MAULANA DWI PUTRA
+
+
 2022804107
+
+
 HASIL
+
+
 ![Gambar WhatsApp 2025-07-11 pukul 19 48 35_19b82076](https://github.com/user-attachments/assets/9edced3d-fa04-4ef5-bd4d-355a2c2b83ef)
 ![Gambar WhatsApp 2025-07-11 pukul 19 49 03_7a4cc65c](https://github.com/user-attachments/assets/763914bf-58ac-4e01-86d5-5d95cea4ec33)
 ![Gambar WhatsApp 2025-07-11 pukul 19 57 37_c89e4a33](https://github.com/user-attachments/assets/a2d5abf9-d8c9-40ed-9603-c6ed7bd2bc0b)
